@@ -25,7 +25,7 @@ These instructions will guide you through using Google Colab effectively for you
 
 # Hands-on Tutorials:
 
-## Lab 1 : Named Entity Recognition using spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mApKR34ldNsTDMF94hW12rf9ihTLtHOa)
+## Lab 1 : Named Entity Recognition using spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilan-g/GenAI-Workshop/blob/main/Lab1-NER_using_spaCy.ipynb)
 
 
 ## Lab 2 : Named Entity Recognition using NLTK [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10F7pU5knm8W9SjB6nbcFWU9gbHh85l98)
