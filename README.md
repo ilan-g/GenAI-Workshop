@@ -28,12 +28,14 @@ These instructions will guide you through using Google Colab effectively for you
 ## Lab 1 : Named Entity Recognition using spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilan-g/GenAI-Workshop/blob/main/Lab1-NER_using_spaCy.ipynb)
 
 
-## Lab 2 : Named Entity Recognition using NLTK [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10F7pU5knm8W9SjB6nbcFWU9gbHh85l98)
+## Lab 2 : Named Entity Recognition using OpenAI [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilan-g/GenAI-Workshop/blob/main/Lab2-NER_Using_OpenAI.ipynb)
 
 
-## Lab 3 : Named Entity Recognition using OpenAI [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XA_5Zv9F2HJ-Fa3-Nc5u2UheFSObLpsz)
+## Lab 3 : Named Entity Recognition using NLTK [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilan-g/GenAI-Workshop/blob/main/Lab3-NER_Using_NLTK.ipynb)
 
-## Lab 4 : Introduction To Prompt Engineering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bKiIRCvK5ddU5u2Ps_JZX8rIAXNFoXye#)
+
+
+## Lab 4 : Introduction To Prompt Engineering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ilan-g/GenAI-Workshop/blob/main/Lab4-Introduction_To_Prompt_Engineering.ipynb)
 
 
 
