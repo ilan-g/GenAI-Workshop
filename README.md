@@ -51,7 +51,7 @@ Imagine reading thousands of news articles or reviews. NER makes computers do th
 
 ## Where Do We Use NER?
 
-NER is the superhero of information extraction. It shines in summarizing news, finding key figures in history, organizing business data, and even analyzing social media sentiments. Anywhere there's a sea of text and important details, NER steps in.
+NER is the superhero of information extraction. It shines in finding key figures in history, organizing business data, and even analyzing social media sentiments. Anywhere there's a sea of text and important details, NER steps in.
 
 ## How Do We Use NER?
 
@@ -59,20 +59,17 @@ We show the computer examples of names, dates, etc., and it learns the pattern. 
 
 ## Benefits of NER:
 
+Top 3 benefits of NER
+
 1. **Efficient Data Processing:**
 NER is the key to unlocking efficiency in data processing. By identifying and categorizing specific entities like names of individuals, organizations, dates, and locations, NER automates the extraction of crucial information from text. This efficiency eliminates the need for laborious manual sifting through documents, enabling organizations to focus on more high-value tasks.
 
 2. **Enhanced Information Retrieval:**
 With NER, the challenge of finding pertinent information within a sea of words is transformed into a streamlined process. By marking entities, NER empowers search engines to provide more accurate and relevant results, leading to a more efficient and productive information retrieval experience.
 
-3. **Contextual Understanding:**
-NER thrives on understanding context, making it an ideal tool for grasping the essence of text. Not only does it identify entities, but it also comprehends their relationships within the larger narrative.
-
-4. **Improved Data Organization:**
+3. **Improved Data Organization:**
 NER steps in to categorize and label entities, simplifying data management.
 
-5. **Personalized User Experiences:**
-NER is a crucial component of recommendation systems and personalization algorithms. By understanding user preferences, it tailors content recommendations, resulting in more engaging user experiences in e-commerce, content platforms, and more.
 
 # spaCy
 
@@ -82,4 +79,4 @@ spaCy is a free and open-source library for working with text in Python. It's de
 
 ## Why Use spaCy?
 
-spaCy is great for building applications that need to handle a lot of text. It's particularly useful for tasks like information extraction and natural language understanding. You can also use spaCy to prepare text for deep learning models.
+spaCy is great for building applications that need to handle a lot of text. It is industry grade NLP library used in lot of Enterprise projects which require NLP support. It's particularly useful for tasks like information extraction and natural language understanding. You can also use spaCy to prepare text for deep learning models.
